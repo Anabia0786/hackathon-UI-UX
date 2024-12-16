@@ -1,0 +1,19 @@
+{
+  "app": {
+    "[project]/app/page": [
+      "static/media/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZ9hiJ_Ek__EeA-s.p.063430ed.woff2"
+    ],
+    "[project]/app/product/page": [
+      "static/media/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZ9hiJ_Ek__EeA-s.p.063430ed.woff2"
+    ],
+    "[project]/app/faq/page": [
+      "static/media/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZ9hiJ_Ek__EeA-s.p.063430ed.woff2"
+    ],
+    "[project]/app/about/page": [
+      "static/media/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZ9hiJ_Ek__EeA-s.p.063430ed.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pages": {},
+  "pagesUsingSizeAdjust": false
+}
